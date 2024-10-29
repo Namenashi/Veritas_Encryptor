@@ -1,0 +1,4 @@
+cryptography>=42.0.0
+argon2-cffi>=23.1.0
+psutil>=5.9.0
+PyInstaller>=6.11.0
