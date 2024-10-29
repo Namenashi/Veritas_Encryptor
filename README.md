@@ -1,6 +1,8 @@
 # Veritas Encryptor
 
-![alt text](https://github.com/Namenashi/Veritas_Encryptor/logo3_Icon-white.png?raw=true)
+<p align="center">
+<img width="50%" src="https://github.com/user-attachments/assets/205cda6b-54d0-40d4-8748-24227188712e">
+</p>
 
 ## Introduction
 Hello, NNNanase from Veritas is hier.
