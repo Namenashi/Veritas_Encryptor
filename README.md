@@ -48,12 +48,11 @@ For Linux: Execute ./VeritasEncryptor-linux in terminal
 The directory structure is as follows:
 
 ```
-veritas-encryptor-windows(linux)/
+veritas-encryptor-windows(-linux)/
 ├── decrypted/    # Stores decrypted files
 ├── encrypted/    # Stores encrypted files
 ├── original/     # Place original files here
 ├── _internal/    # Required program libraries
-├── README.txt    # README
 └── VeritasEncryptor-windows(-linux)    # Executable
 ```
 
