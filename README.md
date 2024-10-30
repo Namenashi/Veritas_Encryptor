@@ -15,6 +15,8 @@ I developed this software primarily for my own use. As I'm still gaining experie
 
 Nevertheless, I hope this program can be helpfull to you.
 
+I always welcome suggestions for improvements, related issues, and opinions on how I can make this software better.
+
 ## Key Features
 Veritas Encryptor is designed to provide maximum security for file owners in situations where more comprehensive encryption software like Veracrypt might be impractical.
 
